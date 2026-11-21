@@ -238,5 +238,10 @@
   "name": "Berry",
   "img": "images/berry.webp",
   "x": "rxzeberry"
+ },
+ {
+  "name": "Nattsu",
+  "img": "images/nattsu.webp",
+  "x": "natt_369_"
  }
 ]

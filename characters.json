@@ -1,696 +1,691 @@
 [
- {
-  "name": "Nagi",
-  "img": "images/nagi.webp",
-  "x": "0xnag1"
- },
- {
-  "name": "Safzy",
-  "img": "images/safzy.webp",
-  "x": "CrypSaf"
- },
- {
-  "name": "vio crybaby",
-  "img": "images/vio-crybaby.webp",
-  "x": "only__violet"
- },
- {
-  "name": "Cilin",
-  "img": "images/cilin.webp",
-  "x": "1Cilineth"
- },
- {
-  "name": "Keet",
-  "img": "images/keet.webp",
-  "x": "0xkeet"
- },
- {
-  "name": "Pucci",
-  "img": "images/pucci.webp",
-  "x": "v3spucc1"
- },
- {
-  "name": "Baso da Queen",
-  "img": "images/baso-da-queen.webp",
-  "x": "basocqueen"
- },
- {
-  "name": "Zera",
-  "img": "images/zera.webp",
-  "x": "zera_chielo"
- },
- {
-  "name": "Prisoner",
-  "img": "images/prisoner.webp",
-  "x": "itsmepris0ner"
- },
- {
-  "name": "Emerald",
-  "img": "images/emerald.webp",
-  "x": "emeraldxyzz"
- },
- {
-  "name": "icey",
-  "img": "images/icey.webp",
-  "x": "ice_bearcute"
- },
- {
-  "name": "Borger",
-  "img": "images/borger.webp",
-  "x": "borgereth"
- },
- {
-  "name": "Vivek",
-  "img": "images/vivek.webp",
-  "x": "Gurpreet8413"
- },
- {
-  "name": "shaqxbt",
-  "img": "images/shaqxbt.webp",
-  "x": "shaqxbt"
- },
- {
-  "name": "bit__wolf",
-  "img": "images/bit-wolf.webp",
-  "x": "bit__wolf"
- },
- {
-  "name": "Saka_algo",
-  "img": "images/saka-algo.webp",
-  "x": "Saka_algo"
- },
- {
-  "name": "Lovagirlv1",
-  "img": "images/lovagirlv1.webp",
-  "x": "Lovagirlv1"
- },
- {
-  "name": "tulipxbt",
-  "img": "images/tulipxbt.webp",
-  "x": "tulipxbt"
- },
- {
-  "name": "lenim",
-  "img": "images/zombie.webp",
-  "x": "lenimNFT"
- },
- {
-  "name": "Tarek",
-  "img": "images/red-eye-boy.webp",
-  "x": "AGGTORNADO"
- },
- {
-  "name": "Neji",
-  "img": "images/neji.webp",
-  "x": "nejiyon"
- },
- {
-  "name": "MaskiDLuffy",
-  "img": "images/maskidluffy.webp",
-  "x": "MaskiDLuffy"
- },
- {
-  "name": "Tulip",
-  "img": "images/tulip.webp",
-  "x": "tulipxbt"
- },
- {
-  "name": "Pix",
-  "img": "images/pix.webp",
-  "x": "pixonme_"
- },
- {
-  "name": "imortell_",
-  "img": "images/imortell.webp",
-  "x": "imortell_"
- },
- {
-  "name": "CircleVang",
-  "img": "images/circlevang.webp",
-  "x": "CircleVang"
- },
- {
-  "name": "Zowee",
-  "img": "images/zowee.webp"
- },
- {
-  "name": "bloodredfrog",
-  "img": "images/bloodredfrog.webp",
-  "x": "bloodredfrog"
- },
- {
-  "name": "Chacha",
-  "img": "images/chacha.webp",
-  "x": "orion_leora"
- },
- {
-  "name": "AZO",
-  "img": "images/azo.webp",
-  "x": "Azo7ooo"
- },
- {
-  "name": "0x6Paths",
-  "img": "images/0x6paths.webp",
-  "x": "0x6Paths"
- },
- {
-  "name": "0x_nickthefreak",
-  "img": "images/0x-nickthefreak.webp",
-  "x": "0x_nickthefreak"
- },
- {
-  "name": "0xBadKoi",
-  "img": "images/0xbadkoi.webp",
-  "x": "0xBadKoi"
- },
- {
-  "name": "0xbigm7",
-  "img": "images/0xbigm7.webp",
-  "x": "0xbigm7"
- },
- {
-  "name": "0xBumblebee",
-  "img": "images/0xbumblebee.webp",
-  "x": "0xBumblebee"
- },
- {
-  "name": "0xCinimini",
-  "img": "images/0xcinimini.webp",
-  "x": "0xCinimini"
- },
- {
-  "name": "0xCobra_",
-  "img": "images/0xcobra.webp",
-  "x": "0xCobra_"
- },
- {
-  "name": "0xCzyzu",
-  "img": "images/0xczyzu.webp",
-  "x": "0xCzyzu"
- },
- {
-  "name": "0xdelo",
-  "img": "images/0xdelo.webp",
-  "x": "0xdelo"
- },
- {
-  "name": "Giannos",
-  "img": "images/0xfarmooooor.webp",
-  "x": "0xg2991"
- },
- {
-  "name": "0xingresso",
-  "img": "images/0xingresso.webp",
-  "x": "0xingresso"
- },
- {
-  "name": "0xjaninka",
-  "img": "images/0xjaninka.webp",
-  "x": "0xjaninka"
- },
- {
-  "name": "Melody",
-  "img": "images/melody.webp",
-  "x": "Melody97971"
- },
- {
-  "name": "Makcy",
-  "img": "images/makcy.webp",
-  "x": "0xmakcyII"
- },
- {
-  "name": "Nothing",
-  "img": "images/nothing.webp",
-  "x": "0xnothing101"
- },
- {
-  "name": "Vera",
-  "img": "images/vera.webp",
-  "x": "verabera_"
- },
- {
-  "name": "GEMMA",
-  "img": "images/gemma.webp",
-  "x": "gemmaxbt"
- },
- {
-  "name": "Berry",
-  "img": "images/berry.webp",
-  "x": "rxzeberry"
- },
- {
-  "name": "Nattsu",
-  "img": "images/nattsu.webp",
-  "x": "natt_369_"
- },
- {
-  "name": "elija",
-  "img": "images/elija.webp",
-  "x": "elijapapicrypto"
- },
- {
-  "name": "Biya3",
-  "img": "images/biya3.webp",
-  "x": "m786w2"
- },
- {
-  "name": "Saki",
-  "img": "images/saki.webp",
-  "x": "SakiRAWR"
- },
- {
-  "name": "Huri",
-  "img": "images/huri.webp",
-  "x": "hurii_i"
- },
- {
-  "name": "lukinzo",
-  "img": "images/lukinzo.webp",
-  "x": "LukinzoNFT"
- },
- {
-  "name": "merky",
-  "img": "images/merky.webp",
-  "x": "Merky0023"
- },
- {
-  "name": "AtnsXBT",
-  "img": "images/atns.webp",
-  "x": "AtnsXBT"
- },
- {
-  "name": "ANONYMOUS",
-  "img": "images/anonymous.webp",
-  "x": "NFTANONYMO"
- },
- {
-  "name": "Urej",
-  "img": "images/urej.webp",
-  "x": "urejNFT"
- },
- {
-  "name": "alssoe",
-  "img": "images/alssoe.webp",
-  "x": "alssoee"
- },
- {
-  "name": "Papillon",
-  "img": "images/papillon.webp",
-  "x": "peymannaderi_"
- },
- {
-  "name": "SUNNHI",
-  "img": "images/sunnhi.webp",
-  "x": "0xsunnhi"
- },
- {
-  "name": "Farah",
-  "img": "images/farah.webp",
-  "x": "Farah__web3"
- },
- {
-  "name": "Gladiator",
-  "img": "images/gladiator.webp",
-  "x": "crypt0gladiat0r"
- },
- {
-  "name": "Walid",
-  "img": "images/walid.webp",
-  "x": "0xWalidx"
- },
- {
-  "name": "joestar",
-  "img": "images/joestar.webp",
-  "x": "Joestar_sann"
- },
- {
-  "name": "James",
-  "img": "images/james.webp",
-  "x": "james077_"
- },
- {
-  "name": "Dusan",
-  "img": "images/dusan.webp",
-  "x": "DusaNFT"
- },
- {
-  "name": "Ibtissam",
-  "img": "images/ibtissam.webp",
-  "x": "karakalla31413"
- },
- {
-  "name": "RedPhish",
-  "img": "images/redphish.webp",
-  "x": "TheDonRedPhish"
- },
- {
-  "name": "Majdi",
-  "img": "images/majdi.webp",
-  "x": "majdi_sw"
- },
- {
-  "name": "Drawknife",
-  "img": "images/drawknife.webp",
-  "x": "drawknifee"
- },
- {
-  "name": "Meiv",
-  "img": "images/meiv.webp",
-  "x": "Meivabelle"
- },
- {
-  "name": "malewicz",
-  "img": "images/malewicz.webp",
-  "x": "malewiczz"
- },
- {
-  "name": "vp sriyans",
-  "img": "images/sriyans.webp",
-  "x": "sriyans_v"
- },
- {
-  "name": "Yan",
-  "img": "images/yan.webp",
-  "x": "100xYan"
- },
- {
-  "name": "Anastasis",
-  "img": "images/anastasis.webp",
-  "x": "Anastasis_Delta"
- },
- {
-  "name": "yoyo",
-  "img": "images/yoyo.webp",
-  "x": "yoyonfts"
- },
- {
-  "name": "Abdul",
-  "img": "images/abdul.webp",
-  "x": "abdxbt"
- },
- {
-  "name": "welcome007",
-  "img": "images/welcome007.webp",
-  "x": "_welcome007"
- },
- {
-  "name": "Tzortzia",
-  "img": "images/tzortzia.webp",
-  "x": "tzogirl"
- },
- {
-  "name": "Sep D. Tem",
-  "img": "images/sepdtem.webp",
-  "x": "sepdtem"
- },
- {
-  "name": "emjayy",
-  "img": "images/emjayy.webp",
-  "x": "emjayrntr"
- },
- {
-  "name": "Figgy",
-  "img": "images/figgy.webp",
-  "x": "figgybeep"
- },
- {
-  "name": "Kovac",
-  "img": "images/kovac.webp",
-  "x": "Mr__Kovacs"
- },
- {
-  "name": "Tammy",
-  "img": "images/tammy.webp",
-  "x": "TaammyyLOVELY"
- },
- {
-  "name": "Lia",
-  "img": "images/lia.webp",
-  "x": "lia_rocks888"
- },
- {
-  "name": "Alayna",
-  "img": "images/alayna.webp",
-  "x": "ALAYNA_NFTs"
- },
- {
-  "name": "nai",
-  "img": "images/nai.webp",
-  "x": "naixbt"
- },
- {
-  "name": "bunny",
-  "img": "images/bunny.webp",
-  "x": "bunnykins_eth"
- },
- {
-  "name": "Vjt",
-  "img": "images/vjt.webp",
-  "x": "vjtonway"
- },
- {
-  "name": "Nxnja",
-  "img": "images/nxnja.webp",
-  "x": "NxnjaProd"
- },
- {
-  "name": "teo",
-  "img": "images/teo.webp",
-  "x": "teelacream1"
- },
- {
-  "name": "Feya",
-  "img": "images/feya.webp",
-  "x": "feya0167"
- },
- {
-  "name": "Mikey",
-  "img": "images/mikey.webp",
-  "x": "mealswithmikeb"
- },
- {
-  "name": "Yeezy",
-  "img": "images/yeezy.webp",
-  "x": "yeezygoudou"
- },
- {
-  "name": "Solute",
-  "img": "images/solute.webp",
-  "x": "Solutenft"
- },
- {
-  "name": "Keira",
-  "img": "images/keira.webp",
-  "x": "ninjakila01"
- },
- {
-  "name": "Castro",
-  "img": "images/castro.webp",
-  "x": "castronft36"
- },
- {
-  "name": "MorningStar",
-  "img": "images/morningstar.webp",
-  "x": "MrningSt4rPrinc"
- },
- {
-  "name": "Casper",
-  "img": "images/casper.webp",
-  "x": "BigCasperEth"
- },
- {
-  "name": "Kanenas",
-  "img": "images/kanenas.webp",
-  "x": "Kanenas_1312"
- },
- {
-  "name": "FattyCat",
-  "img": "images/fattycat.webp",
-  "x": "FatDiabeticCat"
- },
- {
-  "name": "Vardaan",
-  "img": "images/vardaan.webp",
-  "x": "vardaan369"
- },
- {
-  "name": "EmmaN",
-  "img": "images/emman.webp",
-  "x": "GlorytoGlory_21"
- },
- {
-  "name": "Needle",
-  "img": "images/needle.webp",
-  "x": "CMneedle"
- },
- {
-  "name": "Simeone",
-  "img": "images/simeone.webp",
-  "x": "0xsimeone"
- },
- {
-  "name": "Abdullah",
-  "img": "images/abdullah.webp",
-  "x": "AbdullahSadiqq"
- },
- {
-  "name": "Maxii",
-  "img": "images/maxii.webp",
-  "x": "MaxuOnchain"
- },
- {
-  "name": "Valhist",
-  "img": "images/valhist.webp",
-  "x": "valhist"
- },
- {
-  "name": "seif",
-  "img": "images/seif.webp",
-  "x": "seifonnar"
- },
- {
-  "name": "Neo",
-  "img": "images/neo.webp",
-  "x": "0xNeOzz"
- },
- {
-  "name": "lmfaooo",
-  "img": "images/lmfaooo.webp",
-  "x": "pphhaa_20"
- },
- {
-  "name": "HM",
-  "img": "images/hm.webp",
-  "x": "hm_web3"
- },
- {
-  "name": "Zoeeee",
-  "img": "images/zoeeee.webp",
-  "x": "notzoethenwho"
- },
- {
-  "name": "SIDHU",
-  "img": "images/sidhu.webp",
-  "x": "Sidhu1313Sidhu"
- },
- {
-  "name": "Krou",
-  "img": "images/krou.webp",
-  "x": "kroueth"
- },
- {
-  "name": "annienftt",
-  "img": "images/annienftt.webp",
-  "x": "annienftt"
- },
- {
-  "name": "Rodi",
-  "img": "images/rodi.webp",
-  "x": "Raedinweb3"
- },
- {
-  "name": "gobelz",
-  "img": "images/gobelz.webp",
-  "x": "gobelz_"
- },
- {
-  "name": "Auburn",
-  "img": "images/auburn.webp",
-  "x": "OriginalWalkerX"
- },
- {
-  "name": "ilias",
-  "img": "images/ilias.webp",
-  "x": "ilias_xyz"
- },
- {
-  "name": "Sarita",
-  "img": "images/sarita.webp",
-  "x": "Saritajupiter"
- },
- {
-  "name": "Anda",
-  "img": "images/anda.webp",
-  "x": "anda765"
- },
- {
-  "name": "natsio",
-  "img": "images/natsio.webp",
-  "x": "natsioeth"
- },
- {
-  "name": "Mio",
-  "img": "images/mio.webp",
-  "x": "qrema"
- },
- {
-  "name": "Gwmp",
-  "img": "images/gwmp.webp",
-  "x": "Gwmp_4"
- },
- {
-  "name": "MrPotatoJr",
-  "img": "images/mrpotatojr.webp",
-  "x": "MrPo7atoJr"
- },
- {
-  "name": "homie",
-  "img": "images/homie.webp",
-  "x": "xyfer_x"
- },
- {
-  "name": "Sadik",
-  "img": "images/sadik.webp",
-  "x": "Theserialholder"
- },
- {
-  "name": "redmartinii",
-  "img": "images/redmartinii.webp",
-  "x": "redmartinii_"
- },
- {
-  "name": "Nari",
-  "img": "images/nari.webp",
-  "x": "imshonari"
- },
- {
-  "name": "JoshBusd",
-  "img": "images/joshbusd.webp",
-  "x": "JoshBusd"
- },
- {
-  "name": "MeanDrunkyyyyyy",
-  "img": "images/meandrunk.webp",
-  "x": "MeanDrunkWeb3"
- },
- {
-  "name": "Imaginary Kaiju",
-  "img": "images/imaginarykaiju.webp",
-  "x": "sikander69"
- },
- {
-  "name": "Rohit Valeecha",
-  "img": "images/rohit.webp",
-  "x": "valeecharohit"
- },
- {
-  "name": "Fadu",
-  "img": "images/fadu.webp",
-  "x": "Fadu1369"
- },
- {
-  "name": "benzwong",
-  "img": "images/benzwong.webp",
-  "x": "benzwong"
- },
- {
-  "name": "Naskaa",
-  "img": "images/naskaa.webp",
-  "x": "naskaaeth"
- },
- {
-  "name": "Megamus",
-  "img": "images/megamus.webp",
-  "x": "0xMegamus"
- }
+  {
+    "name": "Nagi",
+    "img": "images/nagi.webp",
+    "x": "0xnag1"
+  },
+  {
+    "name": "Safzy",
+    "img": "images/safzy.webp",
+    "x": "CrypSaf"
+  },
+  {
+    "name": "vio crybaby",
+    "img": "images/vio-crybaby.webp",
+    "x": "only__violet"
+  },
+  {
+    "name": "Cilin",
+    "img": "images/cilin.webp",
+    "x": "1Cilineth"
+  },
+  {
+    "name": "Keet",
+    "img": "images/keet.webp",
+    "x": "0xkeet"
+  },
+  {
+    "name": "Pucci",
+    "img": "images/pucci.webp",
+    "x": "v3spucc1"
+  },
+  {
+    "name": "Baso da Queen",
+    "img": "images/baso-da-queen.webp",
+    "x": "basocqueen"
+  },
+  {
+    "name": "Zera",
+    "img": "images/zera.webp",
+    "x": "zera_chielo"
+  },
+  {
+    "name": "Prisoner",
+    "img": "images/prisoner.webp",
+    "x": "itsmepris0ner"
+  },
+  {
+    "name": "Emerald",
+    "img": "images/emerald.webp",
+    "x": "emeraldxyzz"
+  },
+  {
+    "name": "icey",
+    "img": "images/icey.webp",
+    "x": "ice_bearcute"
+  },
+  {
+    "name": "Borger",
+    "img": "images/borger.webp",
+    "x": "borgereth"
+  },
+  {
+    "name": "Vivek",
+    "img": "images/vivek.webp",
+    "x": "Gurpreet8413"
+  },
+  {
+    "name": "shaqxbt",
+    "img": "images/shaqxbt.webp",
+    "x": "shaqxbt"
+  },
+  {
+    "name": "bit__wolf",
+    "img": "images/bit-wolf.webp",
+    "x": "bit__wolf"
+  },
+  {
+    "name": "Saka_algo",
+    "img": "images/saka-algo.webp",
+    "x": "Saka_algo"
+  },
+  {
+    "name": "Lovagirlv1",
+    "img": "images/lovagirlv1.webp",
+    "x": "Lovagirlv1"
+  },
+  {
+    "name": "tulipxbt",
+    "img": "images/tulipxbt.webp",
+    "x": "tulipxbt"
+  },
+  {
+    "name": "lenim",
+    "img": "images/zombie.webp",
+    "x": "lenimNFT"
+  },
+  {
+    "name": "Tarek",
+    "img": "images/red-eye-boy.webp",
+    "x": "AGGTORNADO"
+  },
+  {
+    "name": "Neji",
+    "img": "images/neji.webp",
+    "x": "nejiyon"
+  },
+  {
+    "name": "MaskiDLuffy",
+    "img": "images/maskidluffy.webp",
+    "x": "MaskiDLuffy"
+  },
+  {
+    "name": "Tulip",
+    "img": "images/tulip.webp",
+    "x": "tulipxbt"
+  },
+  {
+    "name": "Pix",
+    "img": "images/pix.webp",
+    "x": "pixonme_"
+  },
+  {
+    "name": "imortell_",
+    "img": "images/imortell.webp",
+    "x": "imortell_"
+  },
+  {
+    "name": "CircleVang",
+    "img": "images/circlevang.webp",
+    "x": "CircleVang"
+  },
+  {
+    "name": "Zowee",
+    "img": "images/zowee.webp"
+  },
+  {
+    "name": "bloodredfrog",
+    "img": "images/bloodredfrog.webp",
+    "x": "bloodredfrog"
+  },
+  {
+    "name": "Chacha",
+    "img": "images/chacha.webp",
+    "x": "orion_leora"
+  },
+  {
+    "name": "AZO",
+    "img": "images/azo.webp",
+    "x": "Azo7ooo"
+  },
+  {
+    "name": "0x6Paths",
+    "img": "images/0x6paths.webp",
+    "x": "0x6Paths"
+  },
+  {
+    "name": "0x_nickthefreak",
+    "img": "images/0x-nickthefreak.webp",
+    "x": "0x_nickthefreak"
+  },
+  {
+    "name": "0xBadKoi",
+    "img": "images/0xbadkoi.webp",
+    "x": "0xBadKoi"
+  },
+  {
+    "name": "0xbigm7",
+    "img": "images/0xbigm7.webp",
+    "x": "0xbigm7"
+  },
+  {
+    "name": "0xBumblebee",
+    "img": "images/0xbumblebee.webp",
+    "x": "0xBumblebee"
+  },
+  {
+    "name": "0xCinimini",
+    "img": "images/0xcinimini.webp",
+    "x": "0xCinimini"
+  },
+  {
+    "name": "0xCobra_",
+    "img": "images/0xcobra.webp",
+    "x": "0xCobra_"
+  },
+  {
+    "name": "0xCzyzu",
+    "img": "images/0xczyzu.webp",
+    "x": "0xCzyzu"
+  },
+  {
+    "name": "0xdelo",
+    "img": "images/0xdelo.webp",
+    "x": "0xdelo"
+  },
+  {
+    "name": "Giannos",
+    "img": "images/0xfarmooooor.webp",
+    "x": "0xg2991"
+  },
+  {
+    "name": "0xingresso",
+    "img": "images/0xingresso.webp",
+    "x": "0xingresso"
+  },
+  {
+    "name": "0xjaninka",
+    "img": "images/0xjaninka.webp",
+    "x": "0xjaninka"
+  },
+  {
+    "name": "Melody",
+    "img": "images/melody.webp",
+    "x": "Melody97971"
+  },
+  {
+    "name": "Makcy",
+    "img": "images/makcy.webp",
+    "x": "0xmakcyII"
+  },
+  {
+    "name": "Nothing",
+    "img": "images/nothing.webp",
+    "x": "0xnothing101"
+  },
+  {
+    "name": "Vera",
+    "img": "images/vera.webp",
+    "x": "verabera_"
+  },
+  {
+    "name": "GEMMA",
+    "img": "images/gemma.webp",
+    "x": "gemmaxbt"
+  },
+  {
+    "name": "Berry",
+    "img": "images/berry.webp",
+    "x": "rxzeberry"
+  },
+  {
+    "name": "Nattsu",
+    "img": "images/nattsu.webp",
+    "x": "natt_369_"
+  },
+  {
+    "name": "elija",
+    "img": "images/elija.webp",
+    "x": "elijapapicrypto"
+  },
+  {
+    "name": "Biya3",
+    "img": "images/biya3.webp",
+    "x": "m786w2"
+  },
+  {
+    "name": "Saki",
+    "img": "images/saki.webp",
+    "x": "SakiRAWR"
+  },
+  {
+    "name": "Huri",
+    "img": "images/huri.webp",
+    "x": "hurii_i"
+  },
+  {
+    "name": "lukinzo",
+    "img": "images/lukinzo.webp",
+    "x": "LukinzoNFT"
+  },
+  {
+    "name": "merky",
+    "img": "images/merky.webp",
+    "x": "Merky0023"
+  },
+  {
+    "name": "AtnsXBT",
+    "img": "images/atns.webp",
+    "x": "AtnsXBT"
+  },
+  {
+    "name": "ANONYMOUS",
+    "img": "images/anonymous.webp",
+    "x": "NFTANONYMO"
+  },
+  {
+    "name": "Urej",
+    "img": "images/urej.webp",
+    "x": "urejNFT"
+  },
+  {
+    "name": "alssoe",
+    "img": "images/alssoe.webp",
+    "x": "alssoee"
+  },
+  {
+    "name": "Papillon",
+    "img": "images/papillon.webp",
+    "x": "peymannaderi_"
+  },
+  {
+    "name": "SUNNHI",
+    "img": "images/sunnhi.webp",
+    "x": "0xsunnhi"
+  },
+  {
+    "name": "Farah",
+    "img": "images/farah.webp",
+    "x": "Farah__web3"
+  },
+  {
+    "name": "Gladiator",
+    "img": "images/gladiator.webp",
+    "x": "crypt0gladiat0r"
+  },
+  {
+    "name": "Walid",
+    "img": "images/walid.webp",
+    "x": "0xWalidx"
+  },
+  {
+    "name": "joestar",
+    "img": "images/joestar.webp",
+    "x": "Joestar_sann"
+  },
+  {
+    "name": "James",
+    "img": "images/james.webp",
+    "x": "james077_"
+  },
+  {
+    "name": "Dusan",
+    "img": "images/dusan.webp",
+    "x": "DusaNFT"
+  },
+  {
+    "name": "Ibtissam",
+    "img": "images/ibtissam.webp",
+    "x": "karakalla31413"
+  },
+  {
+    "name": "RedPhish",
+    "img": "images/redphish.webp",
+    "x": "TheDonRedPhish"
+  },
+  {
+    "name": "Majdi",
+    "img": "images/majdi.webp",
+    "x": "majdi_sw"
+  },
+  {
+    "name": "Drawknife",
+    "img": "images/drawknife.webp",
+    "x": "drawknifee"
+  },
+  {
+    "name": "Meiv",
+    "img": "images/meiv.webp",
+    "x": "Meivabelle"
+  },
+  {
+    "name": "malewicz",
+    "img": "images/malewicz.webp",
+    "x": "malewiczz"
+  },
+  {
+    "name": "vp sriyans",
+    "img": "images/sriyans.webp",
+    "x": "sriyans_v"
+  },
+  {
+    "name": "Yan",
+    "img": "images/yan.webp",
+    "x": "100xYan"
+  },
+  {
+    "name": "Anastasis",
+    "img": "images/anastasis.webp",
+    "x": "Anastasis_Delta"
+  },
+  {
+    "name": "yoyo",
+    "img": "images/yoyo.webp",
+    "x": "yoyonfts"
+  },
+  {
+    "name": "Abdul",
+    "img": "images/abdul.webp",
+    "x": "abdxbt"
+  },
+  {
+    "name": "welcome007",
+    "img": "images/welcome007.webp",
+    "x": "_welcome007"
+  },
+  {
+    "name": "Tzortzia",
+    "img": "images/tzortzia.webp",
+    "x": "tzogirl"
+  },
+  {
+    "name": "Sep D. Tem",
+    "img": "images/sepdtem.webp",
+    "x": "sepdtem"
+  },
+  {
+    "name": "emjayy",
+    "img": "images/emjayy.webp",
+    "x": "emjayrntr"
+  },
+  {
+    "name": "Figgy",
+    "img": "images/figgy.webp",
+    "x": "figgybeep"
+  },
+  {
+    "name": "Kovac",
+    "img": "images/kovac.webp",
+    "x": "Mr__Kovacs"
+  },
+  {
+    "name": "Tammy",
+    "img": "images/tammy.webp",
+    "x": "TaammyyLOVELY"
+  },
+  {
+    "name": "Lia",
+    "img": "images/lia.webp",
+    "x": "lia_rocks888"
+  },
+  {
+    "name": "Alayna",
+    "img": "images/alayna.webp",
+    "x": "ALAYNA_NFTs"
+  },
+  {
+    "name": "nai",
+    "img": "images/nai.webp",
+    "x": "naixbt"
+  },
+  {
+    "name": "bunny",
+    "img": "images/bunny.webp",
+    "x": "bunnykins_eth"
+  },
+  {
+    "name": "Vjt",
+    "img": "images/vjt.webp",
+    "x": "vjtonway"
+  },
+  {
+    "name": "Nxnja",
+    "img": "images/nxnja.webp",
+    "x": "NxnjaProd"
+  },
+  {
+    "name": "teo",
+    "img": "images/teo.webp",
+    "x": "teelacream1"
+  },
+  {
+    "name": "Feya",
+    "img": "images/feya.webp",
+    "x": "feya0167"
+  },
+  {
+    "name": "Mikey",
+    "img": "images/mikey.webp",
+    "x": "mealswithmikeb"
+  },
+  {
+    "name": "Yeezy",
+    "img": "images/yeezy.webp",
+    "x": "yeezygoudou"
+  },
+  {
+    "name": "Solute",
+    "img": "images/solute.webp",
+    "x": "Solutenft"
+  },
+  {
+    "name": "Keira",
+    "img": "images/keira.webp",
+    "x": "ninjakila01"
+  },
+  {
+    "name": "Castro",
+    "img": "images/castro.webp",
+    "x": "castronft36"
+  },
+  {
+    "name": "MorningStar",
+    "img": "images/morningstar.webp",
+    "x": "MrningSt4rPrinc"
+  },
+  {
+    "name": "Casper",
+    "img": "images/casper.webp",
+    "x": "BigCasperEth"
+  },
+  {
+    "name": "Kanenas",
+    "img": "images/kanenas.webp",
+    "x": "Kanenas_1312"
+  },
+  {
+    "name": "FattyCat",
+    "img": "images/fattycat.webp",
+    "x": "FatDiabeticCat"
+  },
+  {
+    "name": "Vardaan",
+    "img": "images/vardaan.webp",
+    "x": "vardaan369"
+  },
+  {
+    "name": "EmmaN",
+    "img": "images/emman.webp",
+    "x": "GlorytoGlory_21"
+  },
+  {
+    "name": "Needle",
+    "img": "images/needle.webp",
+    "x": "CMneedle"
+  },
+  {
+    "name": "Simeone",
+    "img": "images/simeone.webp",
+    "x": "0xsimeone"
+  },
+  {
+    "name": "Maxii",
+    "img": "images/maxii.webp",
+    "x": "MaxuOnchain"
+  },
+  {
+    "name": "Valhist",
+    "img": "images/valhist.webp",
+    "x": "valhist"
+  },
+  {
+    "name": "seif",
+    "img": "images/seif.webp",
+    "x": "seifonnar"
+  },
+  {
+    "name": "Neo",
+    "img": "images/neo.webp",
+    "x": "0xNeOzz"
+  },
+  {
+    "name": "lmfaooo",
+    "img": "images/lmfaooo.webp",
+    "x": "pphhaa_20"
+  },
+  {
+    "name": "HM",
+    "img": "images/hm.webp",
+    "x": "hm_web3"
+  },
+  {
+    "name": "Zoeeee",
+    "img": "images/zoeeee.webp",
+    "x": "notzoethenwho"
+  },
+  {
+    "name": "SIDHU",
+    "img": "images/sidhu.webp",
+    "x": "Sidhu1313Sidhu"
+  },
+  {
+    "name": "Krou",
+    "img": "images/krou.webp",
+    "x": "kroueth"
+  },
+  {
+    "name": "annienftt",
+    "img": "images/annienftt.webp",
+    "x": "annienftt"
+  },
+  {
+    "name": "Rodi",
+    "img": "images/rodi.webp",
+    "x": "Raedinweb3"
+  },
+  {
+    "name": "gobelz",
+    "img": "images/gobelz.webp",
+    "x": "gobelz_"
+  },
+  {
+    "name": "Auburn",
+    "img": "images/auburn.webp",
+    "x": "OriginalWalkerX"
+  },
+  {
+    "name": "ilias",
+    "img": "images/ilias.webp",
+    "x": "ilias_xyz"
+  },
+  {
+    "name": "Sarita",
+    "img": "images/sarita.webp",
+    "x": "Saritajupiter"
+  },
+  {
+    "name": "Anda",
+    "img": "images/anda.webp",
+    "x": "anda765"
+  },
+  {
+    "name": "natsio",
+    "img": "images/natsio.webp",
+    "x": "natsioeth"
+  },
+  {
+    "name": "Mio",
+    "img": "images/mio.webp",
+    "x": "qrema"
+  },
+  {
+    "name": "Gwmp",
+    "img": "images/gwmp.webp",
+    "x": "Gwmp_4"
+  },
+  {
+    "name": "MrPotatoJr",
+    "img": "images/mrpotatojr.webp",
+    "x": "MrPo7atoJr"
+  },
+  {
+    "name": "homie",
+    "img": "images/homie.webp",
+    "x": "xyfer_x"
+  },
+  {
+    "name": "Sadik",
+    "img": "images/sadik.webp",
+    "x": "Theserialholder"
+  },
+  {
+    "name": "redmartinii",
+    "img": "images/redmartinii.webp",
+    "x": "redmartinii_"
+  },
+  {
+    "name": "Nari",
+    "img": "images/nari.webp",
+    "x": "imshonari"
+  },
+  {
+    "name": "JoshBusd",
+    "img": "images/joshbusd.webp",
+    "x": "JoshBusd"
+  },
+  {
+    "name": "MeanDrunkyyyyyy",
+    "img": "images/meandrunk.webp",
+    "x": "MeanDrunkWeb3"
+  },
+  {
+    "name": "Imaginary Kaiju",
+    "img": "images/imaginarykaiju.webp",
+    "x": "sikander69"
+  },
+  {
+    "name": "Rohit Valeecha",
+    "img": "images/rohit.webp",
+    "x": "valeecharohit"
+  },
+  {
+    "name": "Fadu",
+    "img": "images/fadu.webp",
+    "x": "Fadu1369"
+  },
+  {
+    "name": "benzwong",
+    "img": "images/benzwong.webp",
+    "x": "benzwong"
+  },
+  {
+    "name": "Naskaa",
+    "img": "images/naskaa.webp",
+    "x": "naskaaeth"
+  },
+  {
+    "name": "Megamus",
+    "img": "images/megamus.webp",
+    "x": "0xMegamus"
+  }
 ]

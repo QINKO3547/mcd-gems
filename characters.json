@@ -682,5 +682,15 @@
   "name": "benzwong",
   "img": "images/benzwong.webp",
   "x": "benzwong"
+ },
+ {
+  "name": "Naskaa",
+  "img": "images/naskaa.webp",
+  "x": "naskaaeth"
+ },
+ {
+  "name": "Megamus",
+  "img": "images/megamus.webp",
+  "x": "0xMegamus"
  }
 ]

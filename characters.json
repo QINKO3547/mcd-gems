@@ -377,5 +377,10 @@
   "name": "Anastasis",
   "img": "images/anastasis.webp",
   "x": "Anastasis_Delta"
+ },
+ {
+  "name": "yoyo",
+  "img": "images/yoyo.webp",
+  "x": "yoyonfts"
  }
 ]

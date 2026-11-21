@@ -367,5 +367,10 @@
   "name": "vp sriyans",
   "img": "images/sriyans.webp",
   "x": "sriyans_v"
+ },
+ {
+  "name": "Yan",
+  "img": "images/yan.webp",
+  "x": "100xYan"
  }
 ]

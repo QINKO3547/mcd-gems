@@ -312,5 +312,10 @@
   "name": "Gladiator",
   "img": "images/gladiator.webp",
   "x": "crypt0gladiat0r"
+ },
+ {
+  "name": "Walid",
+  "img": "images/walid.webp",
+  "x": "0xWalidx"
  }
 ]

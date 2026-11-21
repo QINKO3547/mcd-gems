@@ -317,5 +317,10 @@
   "name": "Walid",
   "img": "images/walid.webp",
   "x": "0xWalidx"
+ },
+ {
+  "name": "joestar",
+  "img": "images/joestar.webp",
+  "x": "Joestar_sann"
  }
 ]

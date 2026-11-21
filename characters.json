@@ -302,5 +302,10 @@
   "name": "SUNNHI",
   "img": "images/sunnhi.webp",
   "x": "0xsunnhi"
+ },
+ {
+  "name": "Farah",
+  "img": "images/farah.webp",
+  "x": "Farah__web3"
  }
 ]

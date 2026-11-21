@@ -322,5 +322,10 @@
   "name": "joestar",
   "img": "images/joestar.webp",
   "x": "Joestar_sann"
+ },
+ {
+  "name": "James",
+  "img": "images/james.webp",
+  "x": "james077_"
  }
 ]

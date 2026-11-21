@@ -372,5 +372,10 @@
   "name": "Yan",
   "img": "images/yan.webp",
   "x": "100xYan"
+ },
+ {
+  "name": "Anastasis",
+  "img": "images/anastasis.webp",
+  "x": "Anastasis_Delta"
  }
 ]

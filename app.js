@@ -89,13 +89,13 @@ function openLightbox(i) {
   dl.textContent = 'DOWNLOAD ↓';
   lbActions.append(dl);
   lb.hidden = false;
-  requestAnimationFrame(() => lb.classList.add('open'));
+  void lb.offsetWidth; lb.classList.add('open');
   document.body.classList.add('lb-lock');
 }
 function closeLightbox() {
   lb.classList.remove('open');
   document.body.classList.remove('lb-lock');
-  setTimeout(() => { lb.hidden = true; }, 180);
+  setTimeout(() => { if (!lb.classList.contains('open')) lb.hidden = true; }, 180);
   current = -1;
 }
 lb.addEventListener('click', e => { if (e.target === lb || e.target.classList.contains('lb-fig')) closeLightbox(); });

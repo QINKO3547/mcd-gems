@@ -452,5 +452,50 @@
   "name": "Nxnja",
   "img": "images/nxnja.webp",
   "x": "NxnjaProd"
+ },
+ {
+  "name": "teo",
+  "img": "images/teo.webp",
+  "x": "teelacream1"
+ },
+ {
+  "name": "Feya",
+  "img": "images/feya.webp",
+  "x": "feya0167"
+ },
+ {
+  "name": "Mikey",
+  "img": "images/mikey.webp",
+  "x": "mealswithmikeb"
+ },
+ {
+  "name": "Yeezy",
+  "img": "images/yeezy.webp",
+  "x": "yeezygoudou"
+ },
+ {
+  "name": "Solute",
+  "img": "images/solute.webp",
+  "x": "Solutenft"
+ },
+ {
+  "name": "Keira",
+  "img": "images/keira.webp",
+  "x": "ninjakila01"
+ },
+ {
+  "name": "Castro",
+  "img": "images/castro.webp",
+  "x": "castronft36"
+ },
+ {
+  "name": "MorningStar",
+  "img": "images/morningstar.webp",
+  "x": "MrningSt4rPrinc"
+ },
+ {
+  "name": "Casper",
+  "img": "images/casper.webp",
+  "x": "BigCasperEth"
  }
 ]

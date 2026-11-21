@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>McD Gems — ALPHAGEMS Studio</title>
+<meta name="description" content="The ALPHAGEMS crew, clocking in. Every McD Gem as a high-quality profile photo — click any card to download.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500;1,9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <img class="hero-img" src="header.jpg" alt="The McD Gems crew walking into McDonald's for the morning shift">
+  <div class="hero-shade"></div>
+  <div class="hero-content">
+    <p class="eyebrow">THE CREW, CLOCKING IN</p>
+    <h1>Small crew.<br><em>Big shift energy.</em></h1>
+    <p class="hero-sub">Your familiar faces. Now on the McDonald's morning shift.</p>
+    <p class="hero-meet">Meet the McD Gems of ALPHAGEMS Studio.</p>
+    <div class="search-wrap">
+      <label for="search">Find your gem ↓</label>
+      <input id="search" type="text" placeholder="Search a name…" autocomplete="off">
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="section-head">
+    <span>01 / THE MCD COLLECTION</span>
+    <span id="count"></span>
+  </div>
+  <p class="hint">Click any card to download the full high-quality photo.</p>
+  <section id="grid" class="grid"></section>
+  <p id="noresult" class="noresult" hidden>No gem found with that name.</p>
+</main>
+
+<footer>
+  <p>McD GEMS — ALPHAGEMS STUDIO</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

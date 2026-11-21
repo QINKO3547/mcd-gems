@@ -382,5 +382,10 @@
   "name": "yoyo",
   "img": "images/yoyo.webp",
   "x": "yoyonfts"
+ },
+ {
+  "name": "Abdul",
+  "img": "images/abdul.webp",
+  "x": "abdxbt"
  }
 ]

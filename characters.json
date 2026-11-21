@@ -307,5 +307,10 @@
   "name": "Farah",
   "img": "images/farah.webp",
   "x": "Farah__web3"
+ },
+ {
+  "name": "Gladiator",
+  "img": "images/gladiator.webp",
+  "x": "crypt0gladiat0r"
  }
 ]

@@ -268,5 +268,10 @@
   "name": "Huri",
   "img": "images/huri.webp",
   "x": "hurii_i"
+ },
+ {
+  "name": "lukinzo",
+  "img": "images/lukinzo.webp",
+  "x": "LukinzoNFT"
  }
 ]

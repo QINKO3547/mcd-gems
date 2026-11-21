@@ -622,5 +622,15 @@
   "name": "Mio",
   "img": "images/mio.webp",
   "x": "qrema"
+ },
+ {
+  "name": "Gwmp",
+  "img": "images/gwmp.webp",
+  "x": "Gwmp_4"
+ },
+ {
+  "name": "MrPotatoJr",
+  "img": "images/mrpotatojr.webp",
+  "x": "MrPo7atoJr"
  }
 ]

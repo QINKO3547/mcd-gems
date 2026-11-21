@@ -342,5 +342,10 @@
   "name": "RedPhish",
   "img": "images/redphish.webp",
   "x": "TheDonRedPhish"
+ },
+ {
+  "name": "Majdi",
+  "img": "images/majdi.webp",
+  "x": "majdi_sw"
  }
 ]

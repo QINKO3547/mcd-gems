@@ -442,5 +442,10 @@
   "name": "bunny",
   "img": "images/bunny.webp",
   "x": "bunnykins_eth"
+ },
+ {
+  "name": "Vjt",
+  "img": "images/vjt.webp",
+  "x": "vjtonway"
  }
 ]

@@ -91,15 +91,12 @@
  },
  {
   "name": "—",
-  "img": "images/sunglasses-girl.webp"
- },
- {
-  "name": "—",
   "img": "images/zombie.webp"
  },
  {
-  "name": "—",
-  "img": "images/red-eye-boy.webp"
+  "name": "Tarek",
+  "img": "images/red-eye-boy.webp",
+  "x": "AGGTORNADO"
  },
  {
   "name": "Neji",
@@ -196,8 +193,9 @@
   "x": "0xdelo"
  },
  {
-  "name": "0xfarmooooor",
-  "img": "images/0xfarmooooor.webp"
+  "name": "Giannos",
+  "img": "images/0xfarmooooor.webp",
+  "x": "0xg2991"
  },
  {
   "name": "0xingresso",
@@ -232,7 +230,7 @@
  {
   "name": "GEMMA",
   "img": "images/gemma.webp",
-  "x": "wajiha_hussain"
+  "x": "gemmaxbt"
  },
  {
   "name": "Berry",
@@ -253,11 +251,6 @@
   "name": "Biya3",
   "img": "images/biya3.webp",
   "x": "m786w2"
- },
- {
-  "name": "Giannos",
-  "img": "images/giannos.webp",
-  "x": "0xg2991"
  },
  {
   "name": "Saki",

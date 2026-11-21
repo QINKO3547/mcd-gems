@@ -357,5 +357,10 @@
   "name": "Meiv",
   "img": "images/meiv.webp",
   "x": "Meivabelle"
+ },
+ {
+  "name": "malewicz",
+  "img": "images/malewicz.webp",
+  "x": "malewiczz"
  }
 ]

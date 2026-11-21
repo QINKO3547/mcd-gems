@@ -497,5 +497,20 @@
   "name": "Casper",
   "img": "images/casper.webp",
   "x": "BigCasperEth"
+ },
+ {
+  "name": "Kanenas",
+  "img": "images/kanenas.webp",
+  "x": "Kanenas_1312"
+ },
+ {
+  "name": "FattyCat",
+  "img": "images/fattycat.webp",
+  "x": "FatDiabeticCat"
+ },
+ {
+  "name": "Vardaan",
+  "img": "images/vardaan.webp",
+  "x": "vardaan369"
  }
 ]

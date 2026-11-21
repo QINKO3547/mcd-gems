@@ -263,5 +263,10 @@
   "name": "Saki",
   "img": "images/saki.webp",
   "x": "SakiRAWR"
+ },
+ {
+  "name": "Huri",
+  "img": "images/huri.webp",
+  "x": "hurii_i"
  }
 ]

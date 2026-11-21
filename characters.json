@@ -327,5 +327,10 @@
   "name": "James",
   "img": "images/james.webp",
   "x": "james077_"
+ },
+ {
+  "name": "Dusan",
+  "img": "images/dusan.webp",
+  "x": "DusaNFT"
  }
 ]

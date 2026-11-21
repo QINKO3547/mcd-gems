@@ -213,5 +213,30 @@
   "name": "Melody",
   "img": "images/melody.webp",
   "x": "Melody97971"
+ },
+ {
+  "name": "Makcy",
+  "img": "images/makcy.webp",
+  "x": "0xmakcyII"
+ },
+ {
+  "name": "Nothing",
+  "img": "images/nothing.webp",
+  "x": "0xnothing101"
+ },
+ {
+  "name": "Vera",
+  "img": "images/vera.webp",
+  "x": "verabera_"
+ },
+ {
+  "name": "GEMMA",
+  "img": "images/gemma.webp",
+  "x": "wajiha_hussain"
+ },
+ {
+  "name": "Berry",
+  "img": "images/berry.webp",
+  "x": "rxzeberry"
  }
 ]
